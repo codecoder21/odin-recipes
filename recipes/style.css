@@ -1,12 +1,26 @@
 body {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-    color: red;
+.link-list {
+    background-color: lightgrey;
+    text-align: center;
+    border: 2px solid black;
+    margin: 50px 50px;
+    padding: 20px;
 }
 
-h2 {
-    background-color: black;
-    color: white;
+.list {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.odin-recipes {
+    text-align: center;
+    font-size: 50px;
+}
+
+.heading {
+    font-family: Georgia, serif;
 }
